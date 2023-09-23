@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/aabbPhD/static/css/main.93481a3f.css",
-    "main.js": "/aabbPhD/static/js/main.2f20d843.js",
-    "index.html": "/aabbPhD/index.html",
-    "main.93481a3f.css.map": "/aabbPhD/static/css/main.93481a3f.css.map",
-    "main.2f20d843.js.map": "/aabbPhD/static/js/main.2f20d843.js.map"
+    "main.css": "./static/css/main.93481a3f.css",
+    "main.js": "./static/js/main.2f20d843.js",
+    "index.html": "./index.html",
+    "main.93481a3f.css.map": "./static/css/main.93481a3f.css.map",
+    "main.2f20d843.js.map": "./static/js/main.2f20d843.js.map"
   },
   "entrypoints": [
     "static/css/main.93481a3f.css",
