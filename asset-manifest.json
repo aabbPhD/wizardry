@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.03ad59e9.css",
-    "main.js": "./static/js/main.7e3a807b.js",
+    "main.css": "./static/css/main.6720a6b1.css",
+    "main.js": "./static/js/main.129afc14.js",
     "static/media/fear.png": "./static/media/fear.88737daf39ef8d595b82.png",
     "static/media/blueframe.png": "./static/media/blueframe.fcbcf4d68e97c55045c3.png",
     "static/media/chillSt.png": "./static/media/chillSt.950d609dec9c5511ca99.png",
@@ -13,11 +13,11 @@
     "static/media/mantra.png": "./static/media/mantra.dd7eb7a5d8a91f3d7675.png",
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
-    "main.03ad59e9.css.map": "./static/css/main.03ad59e9.css.map",
-    "main.7e3a807b.js.map": "./static/js/main.7e3a807b.js.map"
+    "main.6720a6b1.css.map": "./static/css/main.6720a6b1.css.map",
+    "main.129afc14.js.map": "./static/js/main.129afc14.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ad59e9.css",
-    "static/js/main.7e3a807b.js"
+    "static/css/main.6720a6b1.css",
+    "static/js/main.129afc14.js"
   ]
 }
