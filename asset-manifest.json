@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.9d161680.css",
-    "main.js": "./static/js/main.388fd986.js",
+    "main.css": "./static/css/main.03ad59e9.css",
+    "main.js": "./static/js/main.7e3a807b.js",
+    "static/media/fear.png": "./static/media/fear.88737daf39ef8d595b82.png",
     "static/media/blueframe.png": "./static/media/blueframe.fcbcf4d68e97c55045c3.png",
     "static/media/chillSt.png": "./static/media/chillSt.950d609dec9c5511ca99.png",
+    "static/media/manaWyrm.png": "./static/media/manaWyrm.709426144678d87f2837.png",
     "static/media/sparks.png": "./static/media/sparks.ca653dc5999568cf1392.png",
+    "static/media/suppressionOfWill.png": "./static/media/suppressionOfWill.7b64a4cc1cae91c36248.png",
     "static/media/elementalShield.png": "./static/media/elementalShield.bdbbc4ef40c60a39bc5e.png",
     "static/media/beholderGaze.png": "./static/media/beholderGaze.2008e930f2c8d8e7e9af.png",
     "static/media/mantra.png": "./static/media/mantra.dd7eb7a5d8a91f3d7675.png",
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
-    "main.9d161680.css.map": "./static/css/main.9d161680.css.map",
-    "main.388fd986.js.map": "./static/js/main.388fd986.js.map"
+    "main.03ad59e9.css.map": "./static/css/main.03ad59e9.css.map",
+    "main.7e3a807b.js.map": "./static/js/main.7e3a807b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d161680.css",
-    "static/js/main.388fd986.js"
+    "static/css/main.03ad59e9.css",
+    "static/js/main.7e3a807b.js"
   ]
 }
