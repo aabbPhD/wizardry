@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.1f6ca842.css",
-    "main.js": "./static/js/main.a617f88c.js",
+    "main.js": "./static/js/main.95e7042f.js",
+    "static/media/iceBlast.png": "./static/media/iceBlast.2d482cd0649266abc6f1.png",
     "static/media/fear.png": "./static/media/fear.88737daf39ef8d595b82.png",
+    "static/media/hail.png": "./static/media/hail.9411ddc3c921b55bd7c4.png",
     "static/media/flyingFist.png": "./static/media/flyingFist.47cb99acd7704c7f1c5c.png",
     "static/media/blueframe.png": "./static/media/blueframe.fcbcf4d68e97c55045c3.png",
     "static/media/chillSt.png": "./static/media/chillSt.950d609dec9c5511ca99.png",
@@ -10,15 +12,17 @@
     "static/media/sparks.png": "./static/media/sparks.ca653dc5999568cf1392.png",
     "static/media/suppressionOfWill.png": "./static/media/suppressionOfWill.7b64a4cc1cae91c36248.png",
     "static/media/elementalShield.png": "./static/media/elementalShield.bdbbc4ef40c60a39bc5e.png",
+    "static/media/boulder.png": "./static/media/boulder.f1fc9c43c2e183b62e2a.png",
     "static/media/beholderGaze.png": "./static/media/beholderGaze.2008e930f2c8d8e7e9af.png",
+    "static/media/carnivorousPlant.png": "./static/media/carnivorousPlant.faaa55cf4474c308f6d9.png",
     "static/media/mantra.png": "./static/media/mantra.dd7eb7a5d8a91f3d7675.png",
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
     "main.1f6ca842.css.map": "./static/css/main.1f6ca842.css.map",
-    "main.a617f88c.js.map": "./static/js/main.a617f88c.js.map"
+    "main.95e7042f.js.map": "./static/js/main.95e7042f.js.map"
   },
   "entrypoints": [
     "static/css/main.1f6ca842.css",
-    "static/js/main.a617f88c.js"
+    "static/js/main.95e7042f.js"
   ]
 }
