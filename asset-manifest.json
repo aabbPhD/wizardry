@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.d98b5036.css",
-    "main.js": "./static/js/main.de004cbe.js",
+    "main.js": "./static/js/main.11663ac3.js",
     "static/media/iceBlast.png": "./static/media/iceBlast.2d482cd0649266abc6f1.png",
     "static/media/fear.png": "./static/media/fear.88737daf39ef8d595b82.png",
     "static/media/teleport.png": "./static/media/teleport.a06241e685440ef38878.png",
@@ -20,10 +20,10 @@
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
     "main.d98b5036.css.map": "./static/css/main.d98b5036.css.map",
-    "main.de004cbe.js.map": "./static/js/main.de004cbe.js.map"
+    "main.11663ac3.js.map": "./static/js/main.11663ac3.js.map"
   },
   "entrypoints": [
     "static/css/main.d98b5036.css",
-    "static/js/main.de004cbe.js"
+    "static/js/main.11663ac3.js"
   ]
 }
