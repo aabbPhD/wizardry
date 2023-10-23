@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "./static/css/main.d98b5036.css",
-    "main.js": "./static/js/main.11663ac3.js",
+    "main.css": "./static/css/main.0650e6c1.css",
+    "main.js": "./static/js/main.a7051450.js",
     "static/media/iceBlast.png": "./static/media/iceBlast.2d482cd0649266abc6f1.png",
+    "static/media/awakening.png": "./static/media/awakening.aca0a3a515dba945aaad.png",
     "static/media/fear.png": "./static/media/fear.88737daf39ef8d595b82.png",
     "static/media/teleport.png": "./static/media/teleport.a06241e685440ef38878.png",
     "static/media/hail.png": "./static/media/hail.9411ddc3c921b55bd7c4.png",
@@ -11,19 +12,21 @@
     "static/media/chilled.png": "./static/media/chilled.950d609dec9c5511ca99.png",
     "static/media/manaWyrm.png": "./static/media/manaWyrm.709426144678d87f2837.png",
     "static/media/sparks.png": "./static/media/sparks.ca653dc5999568cf1392.png",
+    "static/media/clarityOfMind.png": "./static/media/clarityOfMind.7e3b24715ced05928a7f.png",
     "static/media/suppressionOfWill.png": "./static/media/suppressionOfWill.7b64a4cc1cae91c36248.png",
     "static/media/elementalShield.png": "./static/media/elementalShield.bdbbc4ef40c60a39bc5e.png",
     "static/media/boulder.png": "./static/media/boulder.f1fc9c43c2e183b62e2a.png",
     "static/media/beholderGaze.png": "./static/media/beholderGaze.2008e930f2c8d8e7e9af.png",
+    "static/media/superconductor.png": "./static/media/superconductor.8aac3346e695f98ab20c.png",
     "static/media/carnivorousPlant.png": "./static/media/carnivorousPlant.faaa55cf4474c308f6d9.png",
     "static/media/mantra.png": "./static/media/mantra.dd7eb7a5d8a91f3d7675.png",
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
-    "main.d98b5036.css.map": "./static/css/main.d98b5036.css.map",
-    "main.11663ac3.js.map": "./static/js/main.11663ac3.js.map"
+    "main.0650e6c1.css.map": "./static/css/main.0650e6c1.css.map",
+    "main.a7051450.js.map": "./static/js/main.a7051450.js.map"
   },
   "entrypoints": [
-    "static/css/main.d98b5036.css",
-    "static/js/main.11663ac3.js"
+    "static/css/main.0650e6c1.css",
+    "static/js/main.a7051450.js"
   ]
 }
