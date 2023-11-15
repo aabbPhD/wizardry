@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.1dce39c1.css",
-    "main.js": "./static/js/main.9f8a6686.js",
+    "main.js": "./static/js/main.348b0b4a.js",
     "static/media/nature magic.png": "./static/media/nature magic.b4075d4af329657ab0b4.png",
     "static/media/unityWithNature.png": "./static/media/unityWithNature.887744f4c5541f2a7fc5.png",
     "static/media/poisonousPollen.png": "./static/media/poisonousPollen.db1a9f66845df3ee86e3.png",
@@ -17,7 +17,6 @@
     "static/media/flyingFist.png": "./static/media/flyingFist.47cb99acd7704c7f1c5c.png",
     "static/media/mindDisintegration.png": "./static/media/mindDisintegration.c8cab7729a225c83b02a.png",
     "static/media/antimagic.png": "./static/media/antimagic.237883cd80506487cc9a.png",
-    "static/media/magic.png": "./static/media/magic.237883cd80506487cc9a.png",
     "static/media/reptileSkin.png": "./static/media/reptileSkin.ad8d6837a6111a2022a2.png",
     "static/media/deadlySwarm.png": "./static/media/deadlySwarm.48ec45aac2a2df0c6a83.png",
     "static/media/lifeOnTheEdge.png": "./static/media/lifeOnTheEdge.6cfadfcaa4f70610feb4.png",
@@ -36,22 +35,24 @@
     "static/media/elementalShield.png": "./static/media/elementalShield.bdbbc4ef40c60a39bc5e.png",
     "static/media/boulder.png": "./static/media/boulder.f1fc9c43c2e183b62e2a.png",
     "static/media/earth magic.png": "./static/media/earth magic.f1fc9c43c2e183b62e2a.png",
+    "static/media/charmed.png": "./static/media/charmed.a08f4237c00efeac6314.png",
     "static/media/aegis.png": "./static/media/aegis.0f51d52109cc7ed4db92.png",
     "static/media/beholderGaze.png": "./static/media/beholderGaze.2008e930f2c8d8e7e9af.png",
     "static/media/superconductor.png": "./static/media/superconductor.8aac3346e695f98ab20c.png",
     "static/media/carnivorousPlant.png": "./static/media/carnivorousPlant.faaa55cf4474c308f6d9.png",
     "static/media/mantra.png": "./static/media/mantra.dd7eb7a5d8a91f3d7675.png",
     "static/media/charmAnimal.png": "./static/media/charmAnimal.9032dea3cf2229602cfe.png",
+    "static/media/summon.png": "./static/media/summon.9032dea3cf2229602cfe.png",
     "static/media/unhealable.png": "./static/media/unhealable.4648cc8ad162686401dc.png",
     "static/media/graveCold.png": "./static/media/graveCold.0d4c756489089ebb3cc7.png",
     "static/media/healWeakness.png": "./static/media/healWeakness.4366d6b7137e53d44fa9.png",
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
     "main.1dce39c1.css.map": "./static/css/main.1dce39c1.css.map",
-    "main.9f8a6686.js.map": "./static/js/main.9f8a6686.js.map"
+    "main.348b0b4a.js.map": "./static/js/main.348b0b4a.js.map"
   },
   "entrypoints": [
     "static/css/main.1dce39c1.css",
-    "static/js/main.9f8a6686.js"
+    "static/js/main.348b0b4a.js"
   ]
 }
