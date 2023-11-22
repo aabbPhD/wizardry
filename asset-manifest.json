@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.59e53a62.css",
-    "main.js": "./static/js/main.7922f60d.js",
+    "main.css": "./static/css/main.8636ee06.css",
+    "main.js": "./static/js/main.a1165ced.js",
     "static/media/nature magic.png": "./static/media/nature magic.b4075d4af329657ab0b4.png",
     "static/media/unityWithNature.png": "./static/media/unityWithNature.887744f4c5541f2a7fc5.png",
     "static/media/poisonousPollen.png": "./static/media/poisonousPollen.db1a9f66845df3ee86e3.png",
@@ -48,11 +48,11 @@
     "static/media/healWeakness.png": "./static/media/healWeakness.4366d6b7137e53d44fa9.png",
     "static/media/mentalAttack.png": "./static/media/mentalAttack.bcfab2e2d59542999a4a.png",
     "index.html": "./index.html",
-    "main.59e53a62.css.map": "./static/css/main.59e53a62.css.map",
-    "main.7922f60d.js.map": "./static/js/main.7922f60d.js.map"
+    "main.8636ee06.css.map": "./static/css/main.8636ee06.css.map",
+    "main.a1165ced.js.map": "./static/js/main.a1165ced.js.map"
   },
   "entrypoints": [
-    "static/css/main.59e53a62.css",
-    "static/js/main.7922f60d.js"
+    "static/css/main.8636ee06.css",
+    "static/js/main.a1165ced.js"
   ]
 }
